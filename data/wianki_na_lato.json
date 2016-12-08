@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Lato1",
+    "title":"Lato1",
+    "category":"wianki_na_lato",
+    "price":100,
+    "description":"Wianek na lato1",
+    "image":"/data/images/Lato1-s.png",
+    "largeImage":"/data/images/Lato1-l.png"
+  },
+  {
+    "name":"Lato2",
+    "title":"Lato2",
+    "category":"wianki_na_lato",
+    "price":100,
+    "description":"Wianek na lato2",
+    "image":"/data/images/Lato2-s.png",
+    "largeImage":"/data/images/Lato2-l.png"
+  },
+  {
+    "name":"Lato3",
+    "title":"Lato3",
+    "category":"wianki_na_lato",
+    "price":100,
+    "description":"Wianek na lato3",
+    "image":"/data/images/Lato3-s.png",
+    "largeImage":"/data/images/Lato3-l.png"
+  },
+  {
+    "name":"Lato4",
+    "title":"Lato4",
+    "category":"wianki_na_lato",
+    "price":100,
+    "description":"Wianek na lato4",
+    "image":"/data/images/Lato4-s.png",
+    "largeImage":"/data/images/Lato4-l.png"
+  },
+  {
+    "name":"Lato5",
+    "title":"Lato5",
+    "category":"wianki_na_lato",
+    "price":100,
+    "description":"Wianek na lato5",
+    "image":"/data/images/Lato5-s.png",
+    "largeImage":"/data/images/Lato5-l.png"
+  },
+  {
+    "name":"Lato6",
+    "title":"Lato6",
+    "category":"wianki_na_lato",
+    "price":100,
+    "description":"Wianek na lato6",
+    "image":"/data/images/Lato6-s.png",
+    "largeImage":"/data/images/Lato6-l.png"
+  }
+]

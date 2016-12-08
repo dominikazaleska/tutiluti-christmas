@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Zima1",
+    "title":"Zima1",
+    "category":"wianki_na_zime",
+    "price":100,
+    "description":"Wianek na zimę1",
+    "image":"/data/images/Zima1-s.png",
+    "largeImage":"/data/images/Zima1-l.png"
+  },
+  {
+    "name":"Zima2",
+    "title":"Zima2",
+    "category":"wianki_na_zime",
+    "price":100,
+    "description":"Wianek na zimę2",
+    "image":"/data/images/Zima2-s.png",
+    "largeImage":"/data/images/Zima2-l.png"
+  },
+  {
+    "name":"Zima3",
+    "title":"Zima3",
+    "category":"wianki_na_zime",
+    "price":100,
+    "description":"Wianek na zimę3",
+    "image":"/data/images/Zima3-s.png",
+    "largeImage":"/data/images/Zima3-l.png"
+  },
+  {
+    "name":"Zima4",
+    "title":"Zima4",
+    "category":"wianki_na_zime",
+    "price":100,
+    "description":"Wianek na zimę4",
+    "image":"/data/images/Zima4-s.png",
+    "largeImage":"/data/images/Zima4-l.png"
+  },
+  {
+    "name":"Zima5",
+    "title":"Zima5",
+    "category":"wianki_na_zime",
+    "price":100,
+    "description":"Wianek na zimę5",
+    "image":"/data/images/Zima5-s.png",
+    "largeImage":"/data/images/Zima5-l.png"
+  },
+  {
+    "name":"Zima6",
+    "title":"Zima6",
+    "category":"wianki_na_zime",
+    "price":100,
+    "description":"Wianek na zimę6",
+    "image":"/data/images/Zima6-s.png",
+    "largeImage":"/data/images/Zima6-l.png"
+  }
+]

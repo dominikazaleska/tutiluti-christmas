@@ -1,0 +1,56 @@
+[
+  {
+    "name":"Adele",
+    "title":"Adele",
+    "category":"wianki_swiateczne",
+    "price":119,
+    "description":"Złote i czerwone bombki, orzechy, kasztany, cynamon, wstążki",
+    "image":"/data/images/Adele-s.png",
+    "largeImage":"/data/images/Adele-l.png"
+  },
+  {
+    "name":"Emma",
+    "title":"Emma",
+    "category":"wianki_swiateczne",
+    "price":199,
+    "description":"Do zawieszenia na drzwi, wstążka, orzechy, szyszki, kasztany",
+    "image":"/data/images/Emma-s.png",
+    "largeImage":"/data/images/Emma-l.png"
+  },
+  {
+    "name":"Florence",
+    "title":"Florence",
+    "category":"wianki_swiateczne",
+    "price":119,
+    "description":"Białe siano, srebrne i białe bombki, kwiaty zinna",
+    "image":"/data/images/Florence-s.png",
+    "largeImage":"/data/images/Florence-l.png"
+  },
+  {
+    "name":"Camilla",
+    "title":"Camilla",
+    "category":"wianki_swiateczne",
+    "price":119,
+    "description":"Srebrne siano, czerwone i srebrne bombki, orzechy, szyszki",
+    "image":"/data/images/Camilla-s.png",
+    "largeImage":"/data/images/Camilla-l.png"
+  },
+  {
+    "name":"Doris",
+    "title":"Doris",
+    "category":"wianki_swiateczne",
+    "price":119,
+    "description":"Wiklina czerwone i srebrne bombki, orzechy, lotos",
+    "image":"/data/images/Doris-s.png",
+    "largeImage":"/data/images/Doris-l.png"
+  },
+  {
+    "name":"Aurora",
+    "title":"Aurora",
+    "category":"wianki_swiateczne",
+    "price":119,
+    "description":"Podkład witki brzozowe, złote bombki, naturalne dodatki",
+    "image":"/data/images/Aurora-s.png",
+    "largeImage":"/data/images/Aurora-l.png"
+  }
+]
